@@ -2,5 +2,5 @@
 
 
 - email: 4rlenrey@gmail.com
-- Discord: 4rlenrey#2595
+- Discord: 4rlenrey
 
